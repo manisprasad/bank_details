@@ -1,0 +1,16 @@
+.result-container {
+    background-color: #f3f4f6;
+    border: 1px solid #cbd5e0;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  .details {
+    font-size: 16px;
+  }
+  
+  .icon {
+    margin-right: 8px;
+  }
+  
